@@ -62,6 +62,10 @@ User Device
 
 Trust Score = normalized weighted total (scale: 0–100).
 
+## 📱 Screenshot
+
+![Trust Score Mobile Screenshot](assets/screenshot.png)
+
 ## MVP Goals (Q2 2025)
 - [x] Intune SDK wrapper in native Swift
 - [x] Local scoring engine with config file
