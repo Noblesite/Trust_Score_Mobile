@@ -1,0 +1,563 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		41B7D0502DADEE3B0098CF3E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 41B7D03A2DADEE390098CF3E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 41B7D0412DADEE390098CF3E;
+			remoteInfo = "Trust Score Mobile";
+		};
+		41B7D05A2DADEE3B0098CF3E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 41B7D03A2DADEE390098CF3E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 41B7D0412DADEE390098CF3E;
+			remoteInfo = "Trust Score Mobile";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		41B7D0422DADEE390098CF3E /* Trust Score Mobile.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Trust Score Mobile.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		41B7D04F2DADEE3B0098CF3E /* Trust Score MobileTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Trust Score MobileTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		41B7D0592DADEE3B0098CF3E /* Trust Score MobileUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Trust Score MobileUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		41B7D0442DADEE390098CF3E /* Trust Score Mobile */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Trust Score Mobile";
+			sourceTree = "<group>";
+		};
+		41B7D0522DADEE3B0098CF3E /* Trust Score MobileTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Trust Score MobileTests";
+			sourceTree = "<group>";
+		};
+		41B7D05C2DADEE3B0098CF3E /* Trust Score MobileUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Trust Score MobileUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		41B7D03F2DADEE390098CF3E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		41B7D04C2DADEE3B0098CF3E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		41B7D0562DADEE3B0098CF3E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		41B7D0392DADEE390098CF3E = {
+			isa = PBXGroup;
+			children = (
+				41B7D0442DADEE390098CF3E /* Trust Score Mobile */,
+				41B7D0522DADEE3B0098CF3E /* Trust Score MobileTests */,
+				41B7D05C2DADEE3B0098CF3E /* Trust Score MobileUITests */,
+				41B7D0432DADEE390098CF3E /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		41B7D0432DADEE390098CF3E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				41B7D0422DADEE390098CF3E /* Trust Score Mobile.app */,
+				41B7D04F2DADEE3B0098CF3E /* Trust Score MobileTests.xctest */,
+				41B7D0592DADEE3B0098CF3E /* Trust Score MobileUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		41B7D0412DADEE390098CF3E /* Trust Score Mobile */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 41B7D0632DADEE3B0098CF3E /* Build configuration list for PBXNativeTarget "Trust Score Mobile" */;
+			buildPhases = (
+				41B7D03E2DADEE390098CF3E /* Sources */,
+				41B7D03F2DADEE390098CF3E /* Frameworks */,
+				41B7D0402DADEE390098CF3E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				41B7D0442DADEE390098CF3E /* Trust Score Mobile */,
+			);
+			name = "Trust Score Mobile";
+			packageProductDependencies = (
+			);
+			productName = "Trust Score Mobile";
+			productReference = 41B7D0422DADEE390098CF3E /* Trust Score Mobile.app */;
+			productType = "com.apple.product-type.application";
+		};
+		41B7D04E2DADEE3B0098CF3E /* Trust Score MobileTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 41B7D0662DADEE3B0098CF3E /* Build configuration list for PBXNativeTarget "Trust Score MobileTests" */;
+			buildPhases = (
+				41B7D04B2DADEE3B0098CF3E /* Sources */,
+				41B7D04C2DADEE3B0098CF3E /* Frameworks */,
+				41B7D04D2DADEE3B0098CF3E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				41B7D0512DADEE3B0098CF3E /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				41B7D0522DADEE3B0098CF3E /* Trust Score MobileTests */,
+			);
+			name = "Trust Score MobileTests";
+			packageProductDependencies = (
+			);
+			productName = "Trust Score MobileTests";
+			productReference = 41B7D04F2DADEE3B0098CF3E /* Trust Score MobileTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		41B7D0582DADEE3B0098CF3E /* Trust Score MobileUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 41B7D0692DADEE3B0098CF3E /* Build configuration list for PBXNativeTarget "Trust Score MobileUITests" */;
+			buildPhases = (
+				41B7D0552DADEE3B0098CF3E /* Sources */,
+				41B7D0562DADEE3B0098CF3E /* Frameworks */,
+				41B7D0572DADEE3B0098CF3E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				41B7D05B2DADEE3B0098CF3E /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				41B7D05C2DADEE3B0098CF3E /* Trust Score MobileUITests */,
+			);
+			name = "Trust Score MobileUITests";
+			packageProductDependencies = (
+			);
+			productName = "Trust Score MobileUITests";
+			productReference = 41B7D0592DADEE3B0098CF3E /* Trust Score MobileUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		41B7D03A2DADEE390098CF3E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1630;
+				LastUpgradeCheck = 1630;
+				TargetAttributes = {
+					41B7D0412DADEE390098CF3E = {
+						CreatedOnToolsVersion = 16.3;
+					};
+					41B7D04E2DADEE3B0098CF3E = {
+						CreatedOnToolsVersion = 16.3;
+						TestTargetID = 41B7D0412DADEE390098CF3E;
+					};
+					41B7D0582DADEE3B0098CF3E = {
+						CreatedOnToolsVersion = 16.3;
+						TestTargetID = 41B7D0412DADEE390098CF3E;
+					};
+				};
+			};
+			buildConfigurationList = 41B7D03D2DADEE390098CF3E /* Build configuration list for PBXProject "Trust Score Mobile" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 41B7D0392DADEE390098CF3E;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 41B7D0432DADEE390098CF3E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				41B7D0412DADEE390098CF3E /* Trust Score Mobile */,
+				41B7D04E2DADEE3B0098CF3E /* Trust Score MobileTests */,
+				41B7D0582DADEE3B0098CF3E /* Trust Score MobileUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		41B7D0402DADEE390098CF3E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		41B7D04D2DADEE3B0098CF3E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		41B7D0572DADEE3B0098CF3E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		41B7D03E2DADEE390098CF3E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		41B7D04B2DADEE3B0098CF3E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		41B7D0552DADEE3B0098CF3E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		41B7D0512DADEE3B0098CF3E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 41B7D0412DADEE390098CF3E /* Trust Score Mobile */;
+			targetProxy = 41B7D0502DADEE3B0098CF3E /* PBXContainerItemProxy */;
+		};
+		41B7D05B2DADEE3B0098CF3E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 41B7D0412DADEE390098CF3E /* Trust Score Mobile */;
+			targetProxy = 41B7D05A2DADEE3B0098CF3E /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		41B7D0612DADEE3B0098CF3E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = B95MPUS459;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		41B7D0622DADEE3B0098CF3E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = B95MPUS459;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		41B7D0642DADEE3B0098CF3E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = B95MPUS459;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "net.noblesite.Trust-Score-Mobile";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		41B7D0652DADEE3B0098CF3E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = B95MPUS459;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "net.noblesite.Trust-Score-Mobile";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		41B7D0672DADEE3B0098CF3E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = B95MPUS459;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "net.noblesite.Trust-Score-MobileTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Trust Score Mobile.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Trust Score Mobile";
+			};
+			name = Debug;
+		};
+		41B7D0682DADEE3B0098CF3E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = B95MPUS459;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "net.noblesite.Trust-Score-MobileTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Trust Score Mobile.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Trust Score Mobile";
+			};
+			name = Release;
+		};
+		41B7D06A2DADEE3B0098CF3E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = B95MPUS459;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "net.noblesite.Trust-Score-MobileUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Trust Score Mobile";
+			};
+			name = Debug;
+		};
+		41B7D06B2DADEE3B0098CF3E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = B95MPUS459;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "net.noblesite.Trust-Score-MobileUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Trust Score Mobile";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		41B7D03D2DADEE390098CF3E /* Build configuration list for PBXProject "Trust Score Mobile" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				41B7D0612DADEE3B0098CF3E /* Debug */,
+				41B7D0622DADEE3B0098CF3E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		41B7D0632DADEE3B0098CF3E /* Build configuration list for PBXNativeTarget "Trust Score Mobile" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				41B7D0642DADEE3B0098CF3E /* Debug */,
+				41B7D0652DADEE3B0098CF3E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		41B7D0662DADEE3B0098CF3E /* Build configuration list for PBXNativeTarget "Trust Score MobileTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				41B7D0672DADEE3B0098CF3E /* Debug */,
+				41B7D0682DADEE3B0098CF3E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		41B7D0692DADEE3B0098CF3E /* Build configuration list for PBXNativeTarget "Trust Score MobileUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				41B7D06A2DADEE3B0098CF3E /* Debug */,
+				41B7D06B2DADEE3B0098CF3E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 41B7D03A2DADEE390098CF3E /* Project object */;
+}
